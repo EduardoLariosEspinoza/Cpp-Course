@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Autor: Eduardo Larios Espinoza.
+
 int main()
 {
   int numelementos, num, almacen = 0;
